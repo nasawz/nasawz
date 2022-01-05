@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasawz](https://github.com/nasawz)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasawz&layout=compact" alt="nasawz" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nasawz&show_icons=true" alt="nasawz" />
-</p>
+<table>
+  <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasawz&layout=compact" alt="nasawz" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=nasawz&show_icons=true" alt="nasawz" /></td>
+  </tr>
+</table>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nasawz.nasawz)
